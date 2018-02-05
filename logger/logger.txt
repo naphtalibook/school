@@ -1,0 +1,213 @@
+[2017-10-Thu 02:32:01]=>[owner][naphtali isaacs] enterd
+[2017-10-Thu 03:26:44]=>[owner][naphtali isaacs] enterd
+[2017-10-Thu 12:34:31]=>[owner][ naphtali isaacs]=>enterd
+[2017-10-Thu 13:37:53]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Thu 20:55:31]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Thu 22:50:54]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Thu 22:55:40]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Sat 21:32:38]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Sun 02:42:41]=>[manager][ orly issacs]=> enterd
+[2017-10-Sun 02:42:41][Error]=>[manager][  orly issacs]=> problem with gettin all students (db_handler)
+[2017-10-Sun 02:45:56][Error]=>[manager][ orly issacs]=> problem with gettin all students (db_handler)
+[2017-10-Sun 02:59:05]=>[sales][ ari issacs]=> enterd
+[2017-10-Sun 03:22:47]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Mon 20:27:09]=>[manager][ orly issacs]=> enterd
+[2017-10-Mon 20:27:37]=>[sales][ ari issacs]=> enterd
+[2017-10-Mon 20:27:56]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Mon 21:12:54]=>[sales][ ari issacs]=> enterd
+[2017-10-Mon 21:17:42]=>[owner][ naphtali isaacs]=> enterd
+[2017-10-Tue 00:36:15][Error]=>[owner][ naphtali isaacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Tue 00:59:49][Error]=>[owner][ naphtali isaacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Tue 00:59:49][Error]=>[owner][ naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Tue 01:01:47][Error]=>[owner][ naphtali isaacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Tue 01:01:47][Error]=>[owner][ naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Tue 01:10:02][Error]=>[owner][ naphtali isaacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Tue 01:10:02][Error]=>[owner][ naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Tue 01:16:45][Error]=>[owner][ naphtali isaacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Tue 01:16:45][Error]=>[owner][ naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Tue 16:28:56][Error]=>[owner][ naphtali isaacs]=> problem with adding student id=Array to course id=2 (db_handler)
+[2017-10-Tue 16:28:56][Error]=>[owner][ naphtali isaacs]=> problem with gettin student by id=Array (db_handler)
+[2017-10-Tue 16:28:56][Error]=>[owner][ naphtali isaacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Tue 17:04:16][Error]=>[owner][ naphtali isaacs]=> problem with removing student id= from course id=1 (db_handler)
+[2017-10-Tue 17:04:16][Error]=>[owner][ naphtali isaacs]=> problem with gettin student by id= (db_handler)
+[2017-10-Tue 17:04:16][Error]=>[owner][ naphtali isaacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Tue 17:04:49][Error]=>[owner][ naphtali isaacs]=> problem with gettin student by id= (db_handler)
+[2017-10-Tue 17:04:49][Error]=>[owner][ naphtali isaacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Tue 19:20:00][Error]=>[owner][ naphtali isaacs]=> problem with editing administrator id = 14 (db_handler)
+[2017-10-Tue 19:21:20][Error]=>[owner][ naphtali isaacs]=> problem with editing administrator id = 14 (db_handler)
+[2017-10-Wed 00:32:37]=>[owner][ naphtali isaacs]=>  was deleted  
+ [2017-10-Wed 00:34:41]=>[owner][ naphtali isaacs]=> student id = 15 was deleted  
+ [2017-10-Wed 00:36:55]=>[owner][naphtali isaacs]=> dan student was added 
+[2017-10-Wed 16:21:53]=>[owner][naphtali isaacs]=> amir lev student was added 
+[2017-10-Thu 00:30:44]=>[owner][naphtali isaacs]=> .net course was added 
+[2017-10-Thu 00:32:59]=>[owner][naphtali isaacs]=> ui course was added 
+[2017-10-Thu 00:33:21]=>[owner][naphtali isaacs]=> course id = 5 was deleted  
+ [2017-10-Thu 02:12:42]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:12:51]=>[owner][naphtali isaacs]=> course id = 9 was deleted  
+ [2017-10-Thu 02:13:13]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:13:19]=>[owner][naphtali isaacs]=> course id = 10 was deleted  
+ [2017-10-Thu 02:18:28]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:20:07]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:29:06]=>[owner][naphtali isaacs]=> course id = 12 was deleted  
+ [2017-10-Thu 02:36:32]=>[owner][naphtali isaacs]=> course id = 12 was deleted  
+ [2017-10-Thu 02:37:14]=>[owner][naphtali isaacs]=> course id = 11 was deleted  
+ [2017-10-Thu 02:37:41]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:40:28]=>[owner][naphtali isaacs]=> course id = 13 was deleted  
+ [2017-10-Thu 02:49:00]=>[owner][naphtali isaacs]=> course id = 13 was deleted  
+ [2017-10-Thu 02:49:02]=>[owner][naphtali isaacs]=> course id = 13 was deleted  
+ [2017-10-Thu 02:49:13]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:49:24]=>[owner][naphtali isaacs]=> course id = 14 was deleted  
+ [2017-10-Thu 02:49:49]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 02:50:00]=>[owner][naphtali isaacs]=> course id = 15 was deleted  
+ [2017-10-Thu 02:52:15]=>[owner][naphtali isaacs]=> student id = 19 was deleted  
+ [2017-10-Thu 02:52:25]=>[owner][naphtali isaacs]=> student id = 14 was deleted  
+ [2017-10-Thu 02:52:38]=>[owner][naphtali isaacs]=> student id = 13 was deleted  
+ [2017-10-Thu 02:53:25]=>[owner][naphtali isaacs]=> student id = 13 was deleted  
+ [2017-10-Thu 02:53:28]=>[owner][naphtali isaacs]=> student id = 13 was deleted  
+ [2017-10-Thu 02:53:59]=>[owner][naphtali isaacs]=> student id = 13 was deleted  
+ [2017-10-Thu 02:57:52]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 03:02:01]=>[owner][naphtali isaacs]=> course id = 16 was deleted  
+ [2017-10-Thu 03:02:12]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 03:05:03]=>[owner][naphtali isaacs]=> course id = 17 was deleted  
+ [2017-10-Thu 03:10:23]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 03:10:39]=>[owner][naphtali isaacs]=> course id = 18 was deleted  
+ [2017-10-Thu 03:12:16]=>[owner][naphtali isaacs]=> test course was added 
+[2017-10-Thu 03:12:21]=>[owner][naphtali isaacs]=> course id = 19 was deleted  
+ [2017-10-Thu 03:14:55]=>[owner][naphtali isaacs]=> test test student was added 
+[2017-10-Thu 03:16:18]=>[owner][naphtali isaacs]=> student id = 20 was deleted  
+ [2017-10-Thu 03:16:30]=>[owner][naphtali isaacs]=> test test student was added 
+[2017-10-Thu 03:17:35]=>[owner][naphtali isaacs]=> student id = 21 was deleted  
+ [2017-10-Thu 03:19:43]=>[owner][naphtali isaacs]=>   student was added 
+[2017-10-Thu 03:20:41]=>[owner][naphtali isaacs]=> student id = 22 was deleted  
+ [2017-10-Thu 03:35:45][Error]=>[owner][naphtali isaacs]=> problem with adding student id= 23 to course id=  (db_handler)
+[2017-10-Thu 03:35:45]=>[owner][naphtali isaacs]=>   student was added 
+[2017-10-Thu 03:38:12][Error]=>[owner][naphtali isaacs]=> problem with gettin student by id= (db_handler)
+[2017-10-Thu 03:38:12][Error]=>[owner][naphtali isaacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Thu 03:38:49]=>[owner][naphtali isaacs]=> student id = 23 was deleted  
+ [2017-10-Thu 03:50:30][Error]=>[owner][naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Thu 03:50:39][Error]=>[owner][naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Thu 03:57:19][Error]=>[owner][naphtali isaacs]=> problem with adding student id= 24 to course id=  (db_handler)
+[2017-10-Thu 03:57:19]=>[owner][naphtali isaacs]=> test test student was added 
+[2017-10-Thu 03:58:58]=>[owner][naphtali isaacs]=> student id = 24 was deleted  
+ [2017-10-Thu 03:59:06][Error]=>[owner][naphtali isaacs]=> problem with adding student id= 25 to course id=  (db_handler)
+[2017-10-Thu 03:59:06]=>[owner][naphtali isaacs]=> grdgf fgfd student was added 
+[2017-10-Thu 04:02:58]=>[owner][naphtali isaacs]=> student id = 26 was deleted  
+ [2017-10-Thu 04:03:04]=>[owner][naphtali isaacs]=> student id = 25 was deleted  
+ [2017-10-Thu 04:03:12]=>[owner][naphtali isaacs]=> bfx bxcb student was added 
+[2017-10-Thu 04:04:33]=>[owner][naphtali isaacs]=> student id = 27 was deleted  
+ [2017-10-Thu 04:05:19][Error]=>[owner][naphtali isaacs]=> problem with gettin administrator by id= (db_handler)
+[2017-10-Thu 04:12:41]=>[manager][orly issacs]=> enterd
+[2017-10-Thu 04:14:17]=>[sales][ari issacs]=> enterd
+[2017-10-Thu 04:16:56]=>[manager][orly issacs]=> enterd
+[2017-10-Thu 04:28:59]=>[owner][naphtali isaacs]=> enterd
+[2017-10-Thu 17:34:09]=>[owner][naphtali isaacs]=> enterd
+[2017-10-Thu 18:22:26]=>[owner][naphtali isaacs]=> student  faf isawas edited 
+[2017-10-Thu 18:25:47]=>[owner][naphtali isaacs]=> student  faf isawas edited 
+[2017-10-Thu 18:26:04]=>[owner][naphtali isaacs]=> student  faf isawas edited 
+[2017-10-Thu 18:31:38]=>[owner][naphtali isaacs]=> ret course was added 
+[2017-10-Thu 18:31:54]=>[owner][naphtali isaacs]=> course id = 20 was deleted  
+ [2017-10-Thu 18:49:06]=>[owner][naphtali isaacs]=> test test administrator was added 
+[2017-10-Sun 18:34:42]=>[owner][naphtali isaacs]=> BXFB BFBFX administrator was added 
+[2017-10-Sun 18:38:53]=>[owner][naphtali isaacs]=> fdf hjh administrator was added 
+[2017-10-Sun 20:06:54]=>[owner][naphtali isaacs]=> enterd
+[2017-10-Sun 23:22:59]=>[owner][naphtali isaacs]=> enterd
+[2017-10-Mon 00:16:17]=>[owner][naphtali isaacs]=> q q administrator was added 
+[2017-10-Mon 00:16:24]=>[owner][naphtali isaacs]=> administrator id = 19 was deleted  
+ [2017-10-Mon 00:16:30]=>[owner][naphtali isaacs]=> administrator id = 18 was deleted  
+ [2017-10-Mon 00:16:35]=>[owner][naphtali isaacs]=> administrator id = 16 was deleted  
+ [2017-10-Mon 00:16:40]=>[owner][naphtali isaacs]=> administrator id = 17 was deleted  
+ [2017-10-Mon 14:08:46]=>[owner][naphtali isaacs]=> test test student was added 
+[2017-10-Mon 14:09:07]=>[owner][naphtali isaacs]=> student id = 28 was deleted  
+ [2017-10-Mon 14:15:30]=>[owner][naphtali isaacs]=> dan cohn student was added 
+[2017-10-Mon 14:15:40]=>[owner][naphtali isaacs]=> student id = 29 was deleted  
+ [2017-10-Mon 14:30:57]=>[owner][naphtali isaacs]=> student  www wwwwwas edited 
+[2017-10-Mon 14:37:09]=>[owner][naphtali isaacs]=> test test administrator was added 
+[2017-10-Mon 14:37:16]=>[owner][naphtali isaacs]=> administrator id = 20 was deleted  
+ [2017-10-Mon 15:15:47]=>[owner][naphtali isaacs]=> faf faf administrator was added 
+[2017-10-Mon 15:15:52]=>[owner][naphtali isaacs]=> administrator id = 21 was deleted  
+ [2017-10-Mon 15:16:38]=>[owner][naphtali isaacs]=> administrator id = 21 was deleted  
+ [2017-10-Mon 15:18:29]=>[owner][naphtali isaacs]=> faf faf administrator was added 
+[2017-10-Mon 15:18:57]=>[owner][naphtali isaacs]=> administrator id = 22 was deleted  
+ [2017-10-Mon 15:19:16]=>[owner][naphtali isaacs]=> faf faf administrator was added 
+[2017-10-Mon 15:19:26]=>[owner][naphtali isaacs]=> administrator id = 23 was deleted  
+ [2017-10-Mon 16:03:46]=>[owner][naphtali isaacs]=> student  faf isawas edited 
+[2017-10-Mon 16:04:01]=>[owner][naphtali isaacs]=> course  full stackwas edited 
+[2017-10-Mon 16:11:14]=>[owner][naphtali isaacs]=> administrator  adi lachianiwas edited 
+[2017-10-Mon 16:28:08]=>[sales][ari issacs]=> enterd
+[2017-10-Mon 16:36:43]=>[sales][ari issacs]=> student id = 5 was deleted  
+ [2017-10-Mon 16:37:39]=>[manager][orly issacs]=> enterd
+[2017-10-Mon 16:44:22]=>[manager][orly issacs]=> student  faf isa was edited 
+[2017-10-Mon 17:26:07][Error]=>[manager][orly issacs]=> problem with adding student to db (db_handler)
+[2017-10-Mon 17:26:07][Error]=>[manager][orly issacs]=> problem with adding student id=  to course id= 1 (db_handler)
+[2017-10-Mon 17:26:07]=>[manager][orly issacs]=> fnf kbkb student was added 
+[2017-10-Mon 17:26:07][Error]=>[manager][orly issacs]=> problem with gettin student by id= (db_handler)
+[2017-10-Mon 17:26:07][Error]=>[manager][orly issacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Mon 17:48:39][Error]=>[manager][orly issacs]=> problem with adding student to db (db_handler)
+[2017-10-Mon 17:48:39]=>[manager][orly issacs]=> tt tt student was added 
+[2017-10-Mon 17:48:44][Error]=>[manager][orly issacs]=> problem with gettin student by id= (db_handler)
+[2017-10-Mon 17:48:44][Error]=>[manager][orly issacs]=> problem with getting students course by student id (db_handler)
+[2017-10-Mon 17:56:32][Error]=>[manager][orly issacs]=> problem with adding student to db (db_handler)
+[2017-10-Mon 17:57:04][Error]=>[manager][orly issacs]=> problem with adding administrator to db (db_handler)
+[2017-10-Mon 17:57:51]=>[manager][orly issacs]=> judy isaacs administrator was added 
+[2017-10-Tue 22:58:50]=>[owner][naphtali isaacs]=> enterd
+[2017-10-Tue 22:59:17]=>[owner][naphtali isaacs]=> student  www wwww was edited 
+[2017-10-Tue 22:59:31]=>[owner][naphtali isaacs]=> course  full stack was edited 
+[2017-11-Wed 23:19:30]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Thu 16:09:08]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Thu 16:13:36][Error]=>[owner][naphtali isaacs]=> problem with adding student id= 1 to course id=  (db_handler)
+[2017-11-Thu 16:18:47][Error]=>[owner][naphtali isaacs]=> problem with adding student id= 1 to course id=  (db_handler)
+[2017-11-Thu 16:23:59]=>[owner][naphtali isaacs]=> course  full stack was edited 
+[2017-11-Wed 18:12:24]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Wed 18:13:53]=>[owner][naphtali isaacs]=> alon ham student was added 
+[2017-11-Wed 18:14:06]=>[owner][naphtali isaacs]=> student id = 19 was deleted  
+ [2017-11-Wed 18:14:16]=>[owner][naphtali isaacs]=> administrator id = 1 was deleted  
+ [2017-11-Wed 18:17:05]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 18:13:45]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 20:38:31]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 20:39:11]=>[owner][naphtali isaacs]=> ggg gggggg student was added 
+[2017-11-Sun 20:40:38]=>[owner][naphtali isaacs]=> fdfd course was added 
+[2017-11-Sun 20:41:12]=>[owner][naphtali isaacs]=> student  5555 wwww was edited 
+[2017-11-Sun 20:41:23]=>[owner][naphtali isaacs]=> student  555566666 wwww was edited 
+[2017-11-Sun 20:41:50]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Sun 20:42:04]=>[sales][naphtali isaacs]=> enterd
+[2017-11-Sun 20:42:25]=>[sales][naphtali isaacs]=> enterd
+[2017-11-Mon 16:44:04]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Mon 16:50:28]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 16:52:19]=>[owner][naphtali isaacs]=> student  faf isa was edited 
+[2017-11-Mon 17:12:58]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:13:06]=>[owner][naphtali isaacs]=> administrator  adi lachiani was edited 
+[2017-11-Mon 17:13:15]=>[owner][naphtali isaacs]=> administrator  adi lachiani was edited 
+[2017-11-Mon 17:20:20]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:20:23]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:21:49]=>[sales][ari issacs]=> enterd
+[2017-11-Mon 17:22:25]=>[manager][judy isaacs]=> enterd
+[2017-11-Mon 17:22:52]=>[manager][judy isaacs]=> administrator  adi lachiani was edited 
+[2017-11-Mon 17:31:43]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Mon 17:32:07]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:32:41]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:32:52]=>[owner][naphtali isaacs]=> administrator  orly issacs was edited 
+[2017-11-Mon 17:39:18]=>[owner][naphtali isaacs]=> administrator  adi lachiani was edited 
+[2017-11-Mon 17:39:27]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:39:34]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:39:41]=>[owner][naphtali isaacs]=> administrator  naphtali isaacs was edited 
+[2017-11-Mon 17:40:21]=>[manager][orly issacs]=> enterd
+[2017-11-Mon 17:40:31]=>[manager][orly issacs]=> administrator  orly issacs was edited 
+[2017-11-Mon 17:40:35]=>[manager][orly issacs]=> administrator  ari issacs was edited 
+[2017-11-Mon 17:44:01]=>[manager][orly issacs]=> student  555566666 wwww was edited 
+[2017-11-Mon 17:44:15]=>[manager][orly issacs]=> student  555 wwww was edited 
+[2017-11-Mon 17:44:21]=>[manager][orly issacs]=> student  dan cohen was edited 
+[2017-11-Mon 17:44:25]=>[manager][orly issacs]=> course  java was edited 
+[2017-11-Mon 17:47:50]=>[manager][orly issacs]=> course id = 9 was deleted  
+ [2017-11-Mon 17:48:15]=>[manager][orly issacs]=> student id = 19 was deleted  
+ [2017-11-Mon 17:48:31]=>[sales][ari issacs]=> enterd
+[2017-11-Sat 23:04:29]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 15:56:47]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 15:57:23]=>[owner][naphtali isaacs]=> student  naphhhh isa was edited 
+[2017-11-Mon 22:54:30]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Tue 07:40:34]=>[owner][naphtali isaacs]=> enterd
+[2017-11-Sun 16:13:31]=>[owner][naphtali isaacs]=> enterd
+[2017-12-Tue 15:04:10]=>[owner][naphtali isaacs]=> enterd
+[2017-12-Sun 17:42:34]=>[owner][naphtali isaacs]=> enterd
+[2017-12-Sun 17:43:12]=>[owner][naphtali isaacs]=> sgsg gsfgfsgs student was added 
+[2017-12-Sun 18:29:00]=>[owner][naphtali isaacs]=> dssvsdg course was added 
+[2017-12-Sun 18:29:09]=>[owner][naphtali isaacs]=> hgh course was added 
